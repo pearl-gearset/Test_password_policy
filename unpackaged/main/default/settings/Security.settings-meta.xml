@@ -10,8 +10,8 @@
     <networkAccess/>
     <passwordPolicies>
         <complexity>AlphaNumeric</complexity>
-        <expiration>SixMonths</expiration>
-        <historyRestriction>7</historyRestriction>
+        <expiration>OneYear</expiration>
+        <historyRestriction>11</historyRestriction>
         <lockoutInterval>FifteenMinutes</lockoutInterval>
         <maxLoginAttempts>TenAttempts</maxLoginAttempts>
         <minimumPasswordLength>8</minimumPasswordLength>
